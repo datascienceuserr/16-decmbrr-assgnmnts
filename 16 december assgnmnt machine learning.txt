@@ -1,0 +1,10 @@
+link of machine learning project
+
+student prop assignment
+http://localhost:8889/notebooks/student%20prop%20assgnmnt.ipynb
+
+
+bank deposit assignment
+http://localhost:8890/notebooks/bank%20depost%20assgnmnt.ipynb
+
+
